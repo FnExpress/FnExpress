@@ -20,7 +20,6 @@ Full-stack developer & AI Agent builder at **ByteDance**, based in Shenzhen.
 
 - 🤖 AI Agents & LLM Applications
 - 🔌 MCP (Model Context Protocol) Ecosystem
-- 🛡️ LLM Safety Research ([DeRTa](https://github.com/FnExpress/DeRTa))
 - 🛠️ Developer CLI Tools ([OpenCLI](https://github.com/jackwener/OpenCLI) contributor)
 
 ### GitHub Activity
