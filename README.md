@@ -23,12 +23,9 @@ Full-stack developer & AI Agent builder at **ByteDance**, based in Shenzhen.
 - 🛡️ LLM Safety Research ([DeRTa](https://github.com/FnExpress/DeRTa))
 - 🛠️ Developer CLI Tools ([OpenCLI](https://github.com/jackwener/OpenCLI) contributor)
 
-### GitHub Stats
+### GitHub Activity
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FnExpress&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FnExpress&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=FnExpress&theme=github-dark-blue&hide_border=true)
 
 ---
 
